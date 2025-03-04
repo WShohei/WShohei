@@ -1,6 +1,8 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WShohei&theme=vue)
+![GitHub stats](https://githubreadmestats-wshoheis-projects.vercel.app/api?username=WShohei&show_icons=true&theme=vue-dark)
 
 ![Top Langs](https://githubreadmestats-wshoheis-projects.vercel.app/api/top-langs/?username=WShohei&layout=compact&theme=vue-dark&card_width=400px)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WShohei&theme=solarized_dark)
 
 ### Languages and tools
 
